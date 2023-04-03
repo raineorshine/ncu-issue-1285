@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.0",
+  "author": {
+    "name": "Raine Revere",
+    "email": "raine@cybersemics.org",
+    "url": "https://github.com/raineorshine"
+  },
+  "bugs": "",
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [],
+  "homepage": "",
+  "license": "ISC",
+  "repository": "",
+  "type": "module",
+  "workspaces": ["packages/**"]
+}
