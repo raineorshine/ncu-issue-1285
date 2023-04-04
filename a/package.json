@@ -3,6 +3,6 @@
   "description": "",
   "version": "0.0.0",
   "dependencies": {
-	  "ncu-test-v2": "1.0.0"
+    "ncu-test-v2": "1.0.0"
   }
 }
